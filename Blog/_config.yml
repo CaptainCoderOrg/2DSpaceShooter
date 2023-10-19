@@ -1,9 +1,9 @@
-title: Character Creator
-description: 2D Unity Character Creator
+title: Space Shooter
+description: 2D Unity Space Shooter
 theme: just-the-docs
 gems: [jekyll-mermaid]
 
-url: https://skilltree.captaincoder.org/
+url: https://spaceshooter.captaincoder.org/
 
 # aux_links:
 #   Google Classroom: https://classroom.google.com/
